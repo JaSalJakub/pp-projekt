@@ -1,8 +1,3 @@
-Uwaga!
-- Hangman.jar to aplikacja
-- Hangman.java to kod źródłowy
-- words.txt to przykładowe dane wejściowe
-
 Tytuł Projektu: Wisielec 
 
 Spis treści:
@@ -33,3 +28,8 @@ Instrukcja obsługi:
 2. Otwórz terminal i przejdz do lokalizacji Hangman.jar oraz words.txt 
 3. Wpisz komende java -jar Hangman.jar
 ALternatywnie kliknij dwa razy przyciskiem myszy na Hangman.jar
+
+Uwaga!
+- Hangman.jar to aplikacja
+- Hangman.java to kod źródłowy
+- words.txt to przykładowe dane wejściowe
