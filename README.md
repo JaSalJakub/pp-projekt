@@ -1,7 +1,7 @@
 Uwaga!
-Hangman.jar to aplikacja
-Hangman.java to kod źródłowy
-words.txt to przykładowe dane wejściowe
+ Hangman.jar to aplikacja
+ Hangman.java to kod źródłowy
+ words.txt to przykładowe dane wejściowe
 
 Tytuł Projektu: Wisielec 
 
